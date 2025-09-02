@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', () => {
             <nav class="navbar navbar-expand-xl  navbar-light bg-white shadow-sm">
                 <div class="container-fluid px-md-5 px-2">
                     <a class="navbar-brand" href="index.html">
-                        <img src="../public/CCSIP_English_Full Colour@2x.png" alt="Logo" class=" logo-img" />
+                        <img src="./public/CCSIP_English_Full Colour@2x.png" alt="Logo" class=" logo-img" />
                     </a>
                     
                     <button class="navbar-toggler border-0 focus-ring" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Toggle navigation">
